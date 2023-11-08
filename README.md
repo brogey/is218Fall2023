@@ -3,13 +3,13 @@
 Class Sign-In Sheet
 Each student should put an 'X' under their name on the days they attend class.
 
-Student Names: | Student 1 | Student 2 |
+Student Names: | Brody | Mourtada |
 ------------------|-----------|-----------|
 
 November 2023
 | Date        | Student 1 | Student 2 |
 |-------------|-----------|-----------|
-| Nov 8 (Wed) |           |           |
+| Nov 8 (Wed) |     X     |     X     |
 | Nov 10 (Fri)|           |           |
 | Nov 15 (Wed)|           |           |
 | Nov 17 (Fri)|           |           |
