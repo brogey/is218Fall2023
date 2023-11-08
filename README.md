@@ -1,4 +1,4 @@
-# is218Fall2023
+# IS-218 Final Project
 
 Class Sign-In Sheet
 Each student should put an 'X' under their name on the days they attend class.
